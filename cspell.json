@@ -1,0 +1,22 @@
+{
+  "dictionaryDefinitions": [
+    {
+      "name": "shared",
+      "path": ".cspell/shared-words.txt",
+      "description": "Common words shared across the all projects.",
+      "addWords": true
+    },
+    {
+      "name": "project",
+      "path": ".cspell/project-specific-words.txt",
+      "description": "Words specific to this project's context.",
+      "addWords": true
+    },
+    {
+      "name": "personal",
+      "path": ".cspell/personal-words.txt",
+      "description": "My personal additions to the dictionary.",
+      "addWords": true
+    }
+  ]
+}
