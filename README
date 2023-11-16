@@ -1,0 +1,83 @@
+# Snake Game
+
+## Overview
+
+Welcome to the Snake Game! This project is a modern take on the
+classic **Snake** game, developed using Python and the `pygame`
+library. It's designed to be simple yet entertaining, providing both
+a nostalgic trip and a fun way to pass the time.
+
+## Features
+
+- **Classic Gameplay:** Enjoy the timeless mechanics of the Snake
+  game.
+- **Customizable Settings:** Tailor the game speed, snake color, and
+  more.
+- **Score Tracking:** Keep track of your high scores and improve
+  over time.
+- **Responsive Controls:** Smooth and intuitive keyboard controls
+  for seamless gameplay.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+
+- pygame library
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/snake-game.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd snake-game
+   ```
+
+3. Install `pygame` (if not already installed):
+
+   ```bash
+   pip install pygame
+   ```
+
+### Running the Game
+
+To play the game, simply run:
+
+```bash
+python snake.py
+```
+
+## How to Play
+
+1. Use the arrow keys to control the snake and collect food items.
+
+2. Avoid running into the walls or the snake's tail!
+
+## Contributing
+
+I welcome contributions! If you have suggestions or want to improve
+the game, feel free to fork the repository and submit a pull
+request.
+
+## License
+
+This project is licensed under the MIT License - see the
+[LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- Inspired by the classic Nokia Snake game.
+
+- Thanks to the `pygame` community for their invaluable resources.
+
+## Contact
+
+For any queries or feedback, feel free to reach out to me on
+_Discord_ at **dad.1749**.
